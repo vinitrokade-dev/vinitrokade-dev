@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=200&section=header&text=Vinit&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=200&section=header&text=Vinit&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20web%20Developer%20%7C%20&descAlignY=55&descAlign=50" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 Hey there! I'm **Vinit**, a passionate **Full Stack Web Developer** who loves building scalable web applications and automating everything in between. I thrive at the intersection of clean frontend design, robust backend architecture, and cloud infrastructure.
 
-- 🔭 Currently building AI-powered full-stack applications
+- 🔭 Currently building AI-powered full-stack web applications
 - 🌱 Deepening my skills in **Cloud Architecture** & **DevOps automation**
 - 🛠️ Love working with modern toolchains from **React** to **Terraform**
 - 📝 I write technical blogs on [Hashnode]([https://hashnode.com](https://hashnode.com/@vinit2)) & [Medium]([https://medium.com](https://medium.com/@rokadevinit8))
@@ -114,10 +114,3 @@ Hey there! I'm **Vinit**, a passionate **Full Stack Web Developer** who loves bu
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer" />
-
-</div>
