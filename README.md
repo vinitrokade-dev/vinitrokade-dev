@@ -98,10 +98,10 @@ Hey there! I'm **Vinit**, a passionate **Full Stack Web Developer** who loves bu
   <a href="https://www.linkedin.com/in/vinit-rokade-8b18ab328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://hashnode.com/@(https://hashnode.com/@vinit2)" target="_blank">
+  <a href="https://hashnode.com/@vinit2" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://medium.com/@(https://medium.com/@rokadevinit8)" target="_blank">
+  <a href="https://medium.com/@(https://medium.com/@rokadevinit8" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:rokadevinit8@gmail.com">
