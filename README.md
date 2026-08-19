@@ -183,22 +183,6 @@ Hey there! I'm **Vinit**, a passionate **Full Stack Web Developer** who loves bu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitrokade-dev&layout=compact&langs_count=8&theme=dark&title_color=FF6B35&border_color=FF6B35" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitrokade-dev&theme=dark&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&border=FF6B35" />
-
-</div>
-
----
-
 ## 📬 Connect With Me
 
 <p align="left">
